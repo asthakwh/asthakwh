@@ -1,9 +1,5 @@
 # Astha Kushwaha
 
-## Cloud & DevOps Engineer | System Administration
-
----
-
 ### 🎯 What I Do
 
 I specialize in building robust cloud-native solutions that balance **performance**, **reliability**, and **security**. My focus is on automation, observability, and cost-efficient architectures that help teams move fast without compromising stability.
